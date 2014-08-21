@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Wcc723/gulp-test",
   "devDependencies": {
     "gulp-coffee": "^2.1.1",
-    "gulp": "^3.8.7"
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4",
+    "gulp-uglify": "^0.3.1"
   }
 }
