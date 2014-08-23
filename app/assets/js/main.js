@@ -1,1 +1,1 @@
-(function(){$(function(){return alert("a")})}).call(this),function(){$(function(){return alert("b")})}.call(this);
+(function(){alert("a")}).call(this),function(){alert("b")}.call(this);
